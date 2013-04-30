@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://csbees.neurals.in/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php</loc>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Wiki</loc>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=126</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=125</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=106</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=104</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=102</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=98</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=97</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=95</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=94</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=93</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?&amp;page=2</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?&amp;page=3</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?&amp;page=4</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?&amp;page=5</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/usage.txt</loc>
+  <lastmod>2012-12-08T21:13:58+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=92</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=91</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=90</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=89</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=71</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=70</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=69</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=68</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=67</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=66</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?&amp;page=1</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=65</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=58</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=57</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=56</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=55</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=49</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=48</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=46</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=45</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=44</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=43</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=42</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=41</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=39</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=38</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=37</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=36</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=35</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=34</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=33</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=32</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=31</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=30</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=25</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Details&amp;fileid=2</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://csbees.neurals.in/index.php?P=Error</loc>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
+</url>
+</urlset>
