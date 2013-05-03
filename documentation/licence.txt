@@ -1,6 +1,9 @@
 <?php
 
 /*
+	Licence-Terms
+	===============
+	
 	This project is protected by Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported licence
 	Please read the online version of this licence here:
 		http://creativecommons.org/licenses/by-nc-sa/3.0/
